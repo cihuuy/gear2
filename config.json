@@ -13,7 +13,7 @@
         "init": -1,
         "*": {
             "intensity": 2,
-            "threads": 5,
+            "threads": 4,
             "affinity": -1
         }
     },
