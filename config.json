@@ -13,7 +13,7 @@
         "init": -1,
         "*": {
             "intensity": 2,
-            "threads": 8,
+            "threads": 5,
             "affinity": -1
         }
     },
@@ -21,7 +21,7 @@
     "cuda": true,
     "pools": [
         {
-            "coin": "monero",
+            "coin": "heseah",
             "algo": "cn/gpu",
             "url": "168.235.86.33:3393",
             "user": "SK_QzApkbVGsAxyQykaWSnEF.aganagun",
